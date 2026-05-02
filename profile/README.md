@@ -1,6 +1,6 @@
 # Pandu Reddy | Computer Science
 
-👨‍💻 Making Computer Science simpler, one post at a time.
+👨‍💻 Making Computer Science simpler.
 
 LearnWithPanduReddy is a space where I share simple and practical Computer Science content for beginners.
 
