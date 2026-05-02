@@ -1,4 +1,4 @@
-# LearnWithPanduReddy
+# Pandu Reddy | Computer science 
 
 🧠 Making Computer Science simpler, one post at a time.
 
